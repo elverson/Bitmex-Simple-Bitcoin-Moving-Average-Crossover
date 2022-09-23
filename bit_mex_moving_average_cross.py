@@ -10,8 +10,8 @@ import json
 import time
 
 #bitmex api
-bitmex_api_key_test = 'kkNwJW4MLdQ-0RIoBz8tflAY' 
-bitmex_api_secret_test = 'N7-ROML4N9bd2zGvZ7EvfNfi7OQI2qVoDqRw2OqCWdJDDzgR'
+bitmex_api_key_test = '' 
+bitmex_api_secret_test = ''
 client = bitmex.bitmex(api_key=bitmex_api_key_test, api_secret=bitmex_api_secret_test)
 
 #variables
